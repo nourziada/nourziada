@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nourziada/nourziada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./banner.jpg" alt="Nour Ziada — Senior Backend Engineer & AI Engineer" width="100%" />
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/nourziada"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:eng.nour.ziadaa@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Muscat,%20Oman-16213E?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+<br><br>
+
+I build production systems — **REST APIs**, **multi-tenant SaaS**, and **AI agents** that carry out real tasks.
+
+Backend architecture in Laravel and PHP · AI engineering in Python with LLM APIs, RAG and MCP.
+
+**Open to senior backend and AI engineering roles — remote or relocation.**
+
+<br>
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=laravel,php,python,vue,mysql,postgres,redis,docker,aws,nginx,linux,git&theme=dark&perline=12" width="92%" />
+
+<br><br>
+
+### Featured
+
+#### [job-match-advisor](https://github.com/nourziada/job-match-advisor)
+
+An AI agent that reads a job posting, compares it against a CV using RAG,<br>and returns a structured verdict with the criteria behind every decision.
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-1f6feb?style=flat-square" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+
+</div>
