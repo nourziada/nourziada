@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.jpg" alt="Nour Ziada — Senior Backend Engineer & AI Engineer" width="100%" />
+<img src="./banner.png" alt="Nour Ziada — Senior Backend Engineer & AI Engineer" width="100%" />
 
 <br>
 
