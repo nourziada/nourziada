@@ -14,8 +14,6 @@ I build production systems — **REST APIs**, **multi-tenant SaaS**, and **AI ag
 
 Backend architecture in Laravel and PHP · AI engineering in Python with LLM APIs, RAG and MCP.
 
-**Open to senior backend and AI engineering roles — remote or relocation.**
-
 <br>
 
 ### Stack
